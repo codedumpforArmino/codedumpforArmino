@@ -1,0 +1,10 @@
+﻿  EngProj.cpp
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Dynamic Answers\EngProj\EngProj\EngProj.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EngProj.vcxproj -> D:\Work\Dynamic Answers\EngProj\Debug\EngProj.exe

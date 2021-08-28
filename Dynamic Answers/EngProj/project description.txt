@@ -1,0 +1,2 @@
+Project description:
+Generates an activity with randomize variables from an item bank. The program asks for number of items the user would like to have in his activity and for what lessons in Physics (Kinematics, Forces, Work). The program generates a random number, which will represent the item number it will get from the item bank. The number of items will be dynamic as the user will input a integer value for it. The Answers will also be dynamic as the variables in the items changes
